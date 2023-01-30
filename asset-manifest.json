@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.dc7ceef5.css",
-    "main.js": "/static/js/main.cbe2cdbd.js",
+    "main.js": "/static/js/main.174c58fb.js",
     "static/media/sephora.png": "/static/media/sephora.ca9041a5a319f7614f85.png",
+    "static/media/Bhairavnath_Gotam_Resume.pdf": "/static/media/Bhairavnath_Gotam_Resume.1cafe85741f51793a48e.pdf",
     "static/media/bestbuy.png": "/static/media/bestbuy.44e149518de7abebcdd6.png",
     "static/media/orbitz.png": "/static/media/orbitz.033ad8c3f0af8177d524.png",
     "index.html": "/index.html",
     "main.dc7ceef5.css.map": "/static/css/main.dc7ceef5.css.map",
-    "main.cbe2cdbd.js.map": "/static/js/main.cbe2cdbd.js.map"
+    "main.174c58fb.js.map": "/static/js/main.174c58fb.js.map"
   },
   "entrypoints": [
     "static/css/main.dc7ceef5.css",
-    "static/js/main.cbe2cdbd.js"
+    "static/js/main.174c58fb.js"
   ]
 }
