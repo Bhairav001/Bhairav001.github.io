@@ -19,7 +19,7 @@ const About = () => {
 
         <div className="p-10 border-2 shadow-2xl shadow-blue-500/100 bg-black">
         <p className="text-2xl font-medium">
-        <h1 style={{fontSize:"40px", color:"blue.600"}}>I am Bhairavnath Gotam</h1><br />
+        <h1 className="text-blue-600" style={{fontSize:"40px"}}>I am Bhairavnath Gotam</h1><br />
          Dedicated and motivated aspiring Full Stack web developer. a collaborative team player, eager to work with interdisciplinary teams for organizational growth, with a passion for creating new products, and looking forward to starting the journey as a Full Stack web developer.
         </p>      
        {/* <br />

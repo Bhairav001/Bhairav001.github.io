@@ -3,8 +3,8 @@ import { BsFillPersonLinesFill } from "react-icons/bs";
 
 import { Link } from "react-scroll";
 import { DiCodeigniter } from "react-icons/di";
-
-
+// import Bhairavnath_Gotam_Resume from "./Bhairavnath_Gotam_Resume.pdf"
+import Bhairavnath_Gotam_Resume from "../img_bhairav/Bhairavnath_Gotam_Resume.pdf"
 const Home = () => (
   <div
     name="home"
@@ -29,11 +29,9 @@ const Home = () => (
 
       
         <a
-          // href={Bhairavnath_Gotam_Resume}
+          href={Bhairavnath_Gotam_Resume}
           className="flex justify-between items-center w-full text-white"
-          // download='Bhairavnath_Gotam_Resume'
-          // target="window.open(link, _blank)"
-          // link="https://drive.google.com/file/d/1IKsSHWlro4QzDLWPzQvw3qBpkylBZcuU/view?usp=sharing"
+          download={true}
           onClick={() => window.open("https://drive.google.com/file/d/1IKsSHWlro4QzDLWPzQvw3qBpkylBZcuU/view?usp=sharing", "_blank")}
           rel="noreferrer"
         >
