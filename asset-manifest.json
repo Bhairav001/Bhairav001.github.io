@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d339384.css",
-    "main.js": "/static/js/main.e7b2a09e.js",
+    "main.css": "/static/css/main.18f141b0.css",
+    "main.js": "/static/js/main.3d9fc762.js",
     "static/media/sephora.png": "/static/media/sephora.ca9041a5a319f7614f85.png",
+    "static/media/snapdeal2.png": "/static/media/snapdeal2.af13f0b2d31de4c9ddb7.png",
     "static/media/Bhairavnath_Gotam_Resume.pdf": "/static/media/Bhairavnath_Gotam_Resume.1cafe85741f51793a48e.pdf",
-    "static/media/bestbuy.png": "/static/media/bestbuy.44e149518de7abebcdd6.png",
-    "static/media/orbitz.png": "/static/media/orbitz.033ad8c3f0af8177d524.png",
+    "static/media/quiker2.jpeg": "/static/media/quiker2.9e300705a3f5e1e5360a.jpeg",
     "static/media/netlify.png": "/static/media/netlify.156b9a663fd0c16d4e19.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
     "static/media/vscode.png": "/static/media/vscode.d793c746fbc937f66e3d.png",
     "index.html": "/index.html",
-    "main.3d339384.css.map": "/static/css/main.3d339384.css.map",
-    "main.e7b2a09e.js.map": "/static/js/main.e7b2a09e.js.map"
+    "main.18f141b0.css.map": "/static/css/main.18f141b0.css.map",
+    "main.3d9fc762.js.map": "/static/js/main.3d9fc762.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d339384.css",
-    "static/js/main.e7b2a09e.js"
+    "static/css/main.18f141b0.css",
+    "static/js/main.3d9fc762.js"
   ]
 }
