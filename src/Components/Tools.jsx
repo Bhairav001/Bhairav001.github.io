@@ -3,7 +3,7 @@ import github from "../assets/github.png";
 import postman from "../assets/postman.png";
 import Git from "../assets/Git-Icon.png";
 import Netlify from "../assets/netlify.png"
-import heroku from "../assets/heroku.png"
+import heroku from "../assets/cyclic2.jpeg"
 import vscode from "../assets/vscode.png"
 
 
@@ -37,7 +37,7 @@ const Tools = () => {
     {
       id: 9,
       src: heroku,
-      title: "heroku",
+      title: "Cyclic",
       style: "shadow-purple-400",
     },
     
@@ -57,7 +57,7 @@ const Tools = () => {
     >
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
         <div>
-          <p className="text-orange-600	 text-4xl font-bold inline border-b-4 border-gray-500">
+          <p className="text-blue-600	 text-4xl font-bold inline border-b-4 border-gray-500">
             Tools
           </p>
           {/* <p className="py-6 text-lg	font-medium	text-neutral-400">These are the technologies I've worked with and used them in my projects.</p> */}

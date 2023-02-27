@@ -8,6 +8,7 @@ import SocialLinks from "./Components/SocialLinks";
 import Footer from "./Components/Footer"
 import Statistics from "./Components/Statistics";
 import { ChakraProvider } from "@chakra-ui/react";
+import Tools from "./Components/Tools";
 
 function App() {
   return (
@@ -18,7 +19,7 @@ function App() {
      <Portfolio />
      
       <Skills />
-    
+       <Tools/>
       <ChakraProvider><Statistics/></ChakraProvider>
 
       <Contact />
