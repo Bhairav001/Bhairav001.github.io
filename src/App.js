@@ -20,7 +20,8 @@ function App() {
      
       <Skills />
        <Tools/>
-      <ChakraProvider><Statistics/></ChakraProvider>
+      {/* <ChakraProvider><Statistics/></ChakraProvider> */}
+      <Statistics/>
 
       <Contact />
       

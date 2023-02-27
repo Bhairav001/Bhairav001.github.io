@@ -1,9 +1,9 @@
 import React from "react";
 
 
-import bestBuy from '../img_bhairav/bestbuy.png'
+import snapdeal from '../img_bhairav/snapdeal2.png'
 import sephora from '../img_bhairav/sephora.png'
-import orbitz from '../img_bhairav/orbitz.png'
+import quikr from '../img_bhairav/quiker2.jpeg'
 
 const Portfolio = () => {
   const projects = [
@@ -11,37 +11,37 @@ const Portfolio = () => {
       id: 1,
       src: 'https://camo.githubusercontent.com/6150a6e884804d67a0af7baa4726485476a939773a8a84b5522e1a762dd49960/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a747a4949646b565f36734348556d55686141564674772e77656270',
       title: "shop.com",
-      tech:"HTML | CSS | JavaScript | React | Chakra UI",
+      tech:"JavaScript | HTML | CSS | React | Chakra UI",
       desc:"SHOP.COM is the ultimate online shopping destination. We are the leader of online cash back shopping. ",
       link: "https://shop-five-sand.vercel.app/",
       repo: "https://github.com/Bhairav001/SHOP.COM",
     },
     {
       id: 2,
-      src: bestBuy,
-      title: "bestbuy.com",
-      tech:"HTML | CSS | JavaScript ",
-      desc:"BESTBUY.COM is a A website to purchase electronics and cell phones products. BESTBUY.COM Clone Shop Best Buy for electronics, computers, appliances, cell phones, video games & more new tech.",
-      link: "https://merry-stardust-45b623.netlify.app/",
-      repo: "https://github.com/Bhairav001/BESTBUY.COM",
+      src: snapdeal,
+      title: "Snapdeal.com",
+      tech:"JavaScript | React | Redux | ChakraUI | HTML | CSS ",
+      desc:"Snapdeal.com is a A website to purchase clothes and woman beauty products. sastadeal.com is a Replica of Snapdeal.com an E-Commerce Website for Shopping",
+      link: "https://snapdeal-project.vercel.app/",
+      repo: "https://github.com/bhaveshkumar96/Snapdeal.com-Clone",
     },
     {
       id: 3,
       src: sephora,
       title: "sephora.com",
-      tech:"HTML | CSS | JavaScript",
+      tech:"JavaScript | HTML | CSS",
       desc:"I have built this an e-commerce website. On this website, firstly user have to login after then it will redirect to the home page where user can see the product collection and product page as well as can add the items to the cart.",
       link: "https://frabjous-squirrel-071560.netlify.app/",
       repo: "https://github.com/Bhairav001/SEPHORA.COM",
     },
     {
       id: 4,
-      src:orbitz,
-      title: "Orbitz.com",
-      tech:"HTML | CSS | JavaScript",
-      desc:"Orbitz.com is a travel fare aggregator website and travel metasearch engine. Orbitz Worldwide, a website to booking hotels.",
-      link: "https://delicate-peony-2695b2.netlify.app/",
-      repo: "https://github.com/Bhairav001/ORBITZ.COM",
+      src:quikr,
+      title: "QuikrBazaar.com",
+      tech:"JavaScript | React | Redux | ChakraUI | MongoDB | Express | HTML | CSS",
+      desc:"Online Shopping for Mobiles, Electronics, Home Appliances, Furniture and more. aim is to empower every person in the country to independently connect with buyers and sellers ",
+      link: "https://gobazzar.vercel.app/",
+      repo: "https://github.com/lipan1437/troubled-value-9978",
     }
    
   ];

@@ -3,6 +3,8 @@ import { FaBars, FaTimes } from "react-icons/fa";
 import { Link } from "react-scroll";
 import {BiDownload} from "react-icons/bi"
 import { DiCodeigniter } from "react-icons/di";
+import Bhairavnath_Gotam_Resume from "../img_bhairav/Bhairavnath_Gotam_Resume.pdf"
+
 const NavBar = () => {
   const [nav, setNav] = useState(false);
 
@@ -57,10 +59,10 @@ const NavBar = () => {
         <li 
           className="nav-links px-4 cursor-pointer capitalize font-bold text-xl text-black-500 hover:scale-105 hover:text-black duration-200 link-underline"
           ><a 
-          // href={Bhairavnath_Gotam_Resume}
-          // download={true}
+          href={Bhairavnath_Gotam_Resume}
+          download={true}
           //  target="_blank"
-          // rel="noreferrer"
+          rel="noreferrer"
           onClick={() => window.open("https://drive.google.com/file/d/1IKsSHWlro4QzDLWPzQvw3qBpkylBZcuU/view?usp=sharing", "_blank")}
           >
             Resume</a></li>
