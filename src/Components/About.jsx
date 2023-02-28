@@ -15,11 +15,11 @@ const About = () => {
         </div>
            {/* gig img */}
         <div className="md:flex justify-center gap-20  sm:block ">
-        <img width="380px" bg='blue' src='https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966' />
+        <img className="md:flex justify-center gap-20  sm:block " width="380px" bg='blue' src='https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966' />
 
         <div className="p-10 border-2 shadow-2xl shadow-blue-500/100 bg-black">
         <p className="text-2xl font-medium">
-        <h1 className="text-blue-600" style={{fontSize:"40px"}}>I am Bhairavnath Gotam</h1><br />
+        {/* <h1 className="text-blue-600" style={{fontSize:"40px"}}>I am Bhairavnath Gotam</h1><br /> */}
          Dedicated and motivated aspiring Full Stack web developer. a collaborative team player, eager to work with interdisciplinary teams for organizational growth, with a passion for creating new products, and looking forward to starting the journey as a Full Stack web developer.
         </p>      
        {/* <br />

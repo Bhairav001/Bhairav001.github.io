@@ -40,7 +40,7 @@ const NavBar = () => {
     <div className="flex justify-between items-center w-full h-20 px-4 text-black font-bold fixed nav bg-blue-600 to-blue-600">
       <div>
        
-        <h1 className="text-5xl shadow-lg shadow-black font-style: italic ml-2"><a className="cursor-pointer link-underline link-underline-black" target="_blank" rel="noreferrer">{`<B/G>`}</a></h1>
+      {/* <h6 className="text-3xl shadow-lg shadow-black font-style: italic ml-2"><a className="cursor-pointer link-underline link-underline-black" target="_blank" rel="noreferrer">BG</a></h6> */}
       </div>
 
       <ul className="hidden md:flex">
