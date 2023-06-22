@@ -28,7 +28,7 @@ const Contact = () => {
             onSubmit={handleSubmit}
             name="contact"
             method="POST"
-            action="https://getform.io/f/a505f45e-31f8-4a56-a7f1-7a535028342c"
+            action="https://getform.io/f/5ef16739-fcb0-4df1-bb19-ea66d8ac5c82"
             className=" flex flex-col w-full md:w-1/2"
           >
             <input
